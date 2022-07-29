@@ -1,0 +1,2 @@
+rootProject.name='BlinVoi1.1'
+include ':app'
